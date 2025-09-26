@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sample-app
+description: A basic Helm chart for ArgoCD deployments
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
+keywords:
+  - argocd
+  - kubernetes
+  - deployment
+home: https://github.com/NoelXP/ArgoCD
+maintainers:
+  - name: NoelXP
+    url: https://github.com/NoelXP
